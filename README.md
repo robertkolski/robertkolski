@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robertkolski
 - 👀 I’m interested in Clean Coding Practices
-- 🌱 I’m currently learning Unity for Video Games and also newer Scripting for WebSites.
-- 💞️ I’m looking to collaborate on business ideas.  I'm a Member of @Akeraiotitasoft LLC
+- 🌱 I'm learning NES and SNES hardware.  Might also work on newer technology.
+- 💞️ I’m looking to collaborate on business ideas.
 - 📫 How to reach me robert.kolski@outlook.com
 
 <!---
